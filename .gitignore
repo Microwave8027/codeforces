@@ -1,0 +1,9 @@
+/build/*
+!/build/.gitkeep
+/testcases/*
+!/testcases/.gitkeep
+/io/*
+*.exe
+*.out
+*.pdb
+.cache/
